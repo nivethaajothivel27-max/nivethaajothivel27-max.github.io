@@ -1,0 +1,33 @@
+.container-fluid,
+.hero-wrap {
+    background-color: #3a5a40;
+}
+
+.btn {
+    background-color: #3a5a40;
+}
+
+.as {
+    background-color: white;
+    color: #3a5a40;
+    border-radius: 10%;
+}
+
+.gp {
+    background-color:#3a5a40;
+    color: white;
+    border-radius: 10%;
+}
+.hero-wrap{
+    justify-content: center;
+}
+.row{
+    align-items: center;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:700px;
+  font-style: normal;
+}
